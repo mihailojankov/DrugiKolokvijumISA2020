@@ -1,0 +1,9 @@
+Insert into soba values(0, 3, "Soba1", "Neki opis");
+Insert into soba values(0, 3, "Soba2", "Neki opis");
+Insert into soba values(0, 3, "Soba3", "Neki opis");
+
+insert into gost values(0, "mail1@gmail.com", "Marko", "lozinka1", "Markovic");
+insert into gost values(0, "mail2@gmail.com", "Pera", "lozinka2", "Peric");
+
+insert into rezervacija values(0, '9999-12-31 23:59:59', '1111-12-31 23:59:59', 1, 1);
+insert into rezervacija values(0, '9999-12-31 23:59:59', '1111-12-31 23:59:59', 2, 2);
